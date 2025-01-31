@@ -45,7 +45,7 @@ def exibir_sobre():
     """exibe informações sobre o projeto."""
     print("Este jogo foi desenvolvido por Bernardo Guerra, estudante de Engenharia de Computação pela Universidade Federal de Itajubá\n"
           "e estudante de programação pelo Projeto Desenvolve - Itabira. O jogo conta com conceitos básicos, porém muito importantes para\n"
-          "qualquer aplicação em Python, como: Modularização, funções recursivas, estruturas de controle, controle de fluxo e muito mais.\n"
+          "qualquer aplicação em Python, como: Modularização, funções recursivas, estruturas de controle, controle de fluxo, técnica de backtracking e muito mais.\n"
           "Além disso, o projeto foi feito com boa escalabilidade, de maneira que, futuramente, novas funcionalidades possam ser adicionadas\n"
           "facilmente. Durante o desenvolvimento, foram seguidas boas práticas de codificação, como a escolha de nomes significativos para\n"
           "variáveis e funções, a indentação correta do código e a utilização de comentários. Divirta-se!")
