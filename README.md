@@ -1,1 +1,2 @@
-# jogo_labirinto
+# Labirinto em Python
+Jogo de labirinto desenvolvido em Python. O objetivo do jogo é navegar através de um labirinto e encontrar a saída, utilizando as teclas W, A, S, D para movimentar o personagem. O código aplica conceitos importantes de programação, como **modularização**, **funções recursivas**, **backtracking**, **estruturas de dados**, uso da biblioteca **keyboard** para captura de entradas em tempo real e um **menu interativo** com o usuário.
